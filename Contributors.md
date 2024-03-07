@@ -35,7 +35,7 @@ i-[Hilal Semercioğlu](https://github.com/elinoza)
 -[Juli Sahakyan](https://github.com/juliasahakyan)
 -[Ankit Singh](https://github.com/AnkitSin24)
 - [A5M0DEUS](https://github.com/A5M0DEUS)
--[Carolina Avendaño](https://github.com/Carolinaavendanoq)
+- [Carolina Avendaño](https://github.com/Carolinaavendanoq)
 - [Giovane Aguiar](https://github.com/giovane-aG)
 - [YxNiI](https://github.com/YxNiI)
 Kencham Vinay
